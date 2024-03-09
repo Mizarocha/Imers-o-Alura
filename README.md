@@ -1,6 +1,11 @@
 <h1 align="center">Imersão FrontEnd</h1>
 
-- Recriando a página do Spotify, utilizando HTML, CSS E JAVASCRIPT
+💡 Recriando a página do Spotify utilizando:
+  
+- [x] HTML
+- [x] CSS
+- [x] JAVASCRIPT   
+
 
 - [Page -Spotify](https://open.spotify.com/intl-pt)
 - [Font Awesome-Ícones](https://fontawesome.com/icons)
