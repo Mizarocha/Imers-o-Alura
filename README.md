@@ -1,4 +1,4 @@
-# Imersão FrontEnd
+<h1 align="center">Imersão FrontEnd</h1>
 
 - Recriando a página do Spotify, utilizando HTML, CSS E JAVASCRIPT
 
